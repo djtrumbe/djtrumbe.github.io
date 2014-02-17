@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
+production: true
+name: David Trumbell
 markdown: redcarpet
+safe: true
+lsi: false
 pygments: true
