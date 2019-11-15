@@ -3,19 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://djtrumbe.github.io/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://djtrumbe.github.io/categories/</loc>
+    <lastmod>2008-10-27T13:47:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://djtrumbe.github.io/</loc>
+    <lastmod>2008-10-27T13:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djtrumbe.github.io/2008/10/27/pasties/</loc>
+    <lastmod>2008-10-27T13:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djtrumbe.github.io/posts/</loc>
+    <lastmod>2008-10-27T13:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djtrumbe.github.io/categories/recipes/</loc>
+    <lastmod>2008-10-27T13:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djtrumbe.github.io/tags/recipes/</loc>
+    <lastmod>2008-10-27T13:47:49+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://djtrumbe.github.io/tags/</loc>
+    <lastmod>2008-10-27T13:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djtrumbe.github.io/about/</loc>
   </url>
   
 </urlset>

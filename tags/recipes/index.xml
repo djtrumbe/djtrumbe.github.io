@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Trumbell</title>
-    <link>https://djtrumbe.github.io/</link>
-    <description>Recent content on David Trumbell</description>
+    <title>Recipes on David Trumbell</title>
+    <link>https://djtrumbe.github.io/tags/recipes/</link>
+    <description>Recent content in Recipes on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 27 Oct 2008 13:47:49 +0000</lastBuildDate>
     
-	<atom:link href="https://djtrumbe.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://djtrumbe.github.io/tags/recipes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
