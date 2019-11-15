@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on David Trumbell</title>
+    <link>https://djtrumbe.github.io/tags/security/</link>
+    <description>Recent content in Security on David Trumbell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Sep 2009 14:38:52 +0000</lastBuildDate>
+    
+	<atom:link href="https://djtrumbe.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress Security Threat</title>
+      <link>https://djtrumbe.github.io/2009/09/06/wordpress-security-threat/</link>
+      <pubDate>Sun, 06 Sep 2009 14:38:52 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/2009/09/06/wordpress-security-threat/</guid>
+      <description>It&amp;rsquo;s been posted all over the internet as of late, but I&amp;rsquo;d like to remind everyone of the security threat to WordPress blogs:
+WordPress 2.8.4: Security Release
+How to Keep WordPress Secure
+From the above links, the way to keep yourself safe from this attack is by upgrading. Make sure you back your DB beforehand. The easiest way to backup your DB is via this plugin:
+wp-db-backup
+The sooner you upgrade, the sooner you are safe from this exploit.</description>
+    </item>
+    
+  </channel>
+</rss>

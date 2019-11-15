@@ -6,15 +6,366 @@
     <description>Recent content in Tags on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Oct 2008 13:47:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Mar 2010 10:14:37 +0000</lastBuildDate>
     
 	<atom:link href="https://djtrumbe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Drobo</title>
+      <link>https://djtrumbe.github.io/tags/drobo/</link>
+      <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/drobo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>format</title>
+      <link>https://djtrumbe.github.io/tags/format/</link>
+      <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/format/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>issues</title>
+      <link>https://djtrumbe.github.io/tags/issues/</link>
+      <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/issues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://djtrumbe.github.io/tags/news/</link>
+      <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Support</title>
+      <link>https://djtrumbe.github.io/tags/support/</link>
+      <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/support/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thin Provisioning</title>
+      <link>https://djtrumbe.github.io/tags/thin-provisioning/</link>
+      <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/thin-provisioning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple</title>
+      <link>https://djtrumbe.github.io/tags/apple/</link>
+      <pubDate>Thu, 11 Feb 2010 17:00:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Safari</title>
+      <link>https://djtrumbe.github.io/tags/safari/</link>
+      <pubDate>Thu, 11 Feb 2010 17:00:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/safari/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tabs</title>
+      <link>https://djtrumbe.github.io/tags/tabs/</link>
+      <pubDate>Thu, 11 Feb 2010 17:00:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/tabs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BE</title>
+      <link>https://djtrumbe.github.io/tags/be/</link>
+      <pubDate>Wed, 20 Jan 2010 22:19:59 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/be/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speedtouch</title>
+      <link>https://djtrumbe.github.io/tags/speedtouch/</link>
+      <pubDate>Wed, 20 Jan 2010 22:19:59 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/speedtouch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XBox</title>
+      <link>https://djtrumbe.github.io/tags/xbox/</link>
+      <pubDate>Wed, 20 Jan 2010 22:19:59 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/xbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>XBox Live</title>
+      <link>https://djtrumbe.github.io/tags/xbox-live/</link>
+      <pubDate>Wed, 20 Jan 2010 22:19:59 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/xbox-live/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GMail</title>
+      <link>https://djtrumbe.github.io/tags/gmail/</link>
+      <pubDate>Wed, 16 Dec 2009 10:55:59 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/gmail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMAP</title>
+      <link>https://djtrumbe.github.io/tags/imap/</link>
+      <pubDate>Wed, 16 Dec 2009 10:55:59 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/imap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mail</title>
+      <link>https://djtrumbe.github.io/tags/mail/</link>
+      <pubDate>Wed, 16 Dec 2009 10:55:59 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/mail/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSL</title>
+      <link>https://djtrumbe.github.io/tags/ssl/</link>
+      <pubDate>Wed, 16 Dec 2009 10:55:59 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/ssl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ebay</title>
+      <link>https://djtrumbe.github.io/tags/ebay/</link>
+      <pubDate>Wed, 23 Sep 2009 11:36:28 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/ebay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fraud</title>
+      <link>https://djtrumbe.github.io/tags/fraud/</link>
+      <pubDate>Wed, 23 Sep 2009 11:36:28 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/fraud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3g</title>
+      <link>https://djtrumbe.github.io/tags/3g/</link>
+      <pubDate>Tue, 15 Sep 2009 12:33:16 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/3g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>o2</title>
+      <link>https://djtrumbe.github.io/tags/o2/</link>
+      <pubDate>Tue, 15 Sep 2009 12:33:16 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/o2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google Reader</title>
+      <link>https://djtrumbe.github.io/tags/google-reader/</link>
+      <pubDate>Mon, 07 Sep 2009 11:11:45 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/google-reader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mac</title>
+      <link>https://djtrumbe.github.io/tags/mac/</link>
+      <pubDate>Mon, 07 Sep 2009 11:11:45 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NetNewsWire</title>
+      <link>https://djtrumbe.github.io/tags/netnewswire/</link>
+      <pubDate>Mon, 07 Sep 2009 11:11:45 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/netnewswire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NewsFire</title>
+      <link>https://djtrumbe.github.io/tags/newsfire/</link>
+      <pubDate>Mon, 07 Sep 2009 11:11:45 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/newsfire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RSS</title>
+      <link>https://djtrumbe.github.io/tags/rss/</link>
+      <pubDate>Mon, 07 Sep 2009 11:11:45 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/rss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://djtrumbe.github.io/tags/security/</link>
+      <pubDate>Sun, 06 Sep 2009 14:38:52 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress</title>
+      <link>https://djtrumbe.github.io/tags/wordpress/</link>
+      <pubDate>Sun, 06 Sep 2009 14:38:52 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>battery</title>
+      <link>https://djtrumbe.github.io/tags/battery/</link>
+      <pubDate>Wed, 15 Jul 2009 12:06:35 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/battery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPhone</title>
+      <link>https://djtrumbe.github.io/tags/iphone/</link>
+      <pubDate>Wed, 15 Jul 2009 12:06:35 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/iphone/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPhone OS</title>
+      <link>https://djtrumbe.github.io/tags/iphone-os/</link>
+      <pubDate>Wed, 15 Jul 2009 12:06:35 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/iphone-os/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPhone OS 3.0</title>
+      <link>https://djtrumbe.github.io/tags/iphone-os-3.0/</link>
+      <pubDate>Wed, 15 Jul 2009 12:06:35 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/iphone-os-3.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OS 3.0</title>
+      <link>https://djtrumbe.github.io/tags/os-3.0/</link>
+      <pubDate>Wed, 15 Jul 2009 12:06:35 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/os-3.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>case</title>
+      <link>https://djtrumbe.github.io/tags/case/</link>
+      <pubDate>Wed, 08 Jul 2009 19:25:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/case/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://djtrumbe.github.io/tags/hardware/</link>
+      <pubDate>Wed, 08 Jul 2009 19:25:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macbook Pro</title>
+      <link>https://djtrumbe.github.io/tags/macbook-pro/</link>
+      <pubDate>Wed, 08 Jul 2009 19:25:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/macbook-pro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MBP</title>
+      <link>https://djtrumbe.github.io/tags/mbp/</link>
+      <pubDate>Wed, 08 Jul 2009 19:25:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/mbp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power adapter</title>
+      <link>https://djtrumbe.github.io/tags/power-adapter/</link>
+      <pubDate>Wed, 08 Jul 2009 19:25:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/power-adapter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>problems</title>
+      <link>https://djtrumbe.github.io/tags/problems/</link>
+      <pubDate>Wed, 08 Jul 2009 19:25:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Recipes</title>
       <link>https://djtrumbe.github.io/tags/recipes/</link>
-      <pubDate>Mon, 27 Oct 2008 13:47:49 +0000</pubDate>
+      <pubDate>Mon, 04 May 2009 13:37:31 +0000</pubDate>
       
       <guid>https://djtrumbe.github.io/tags/recipes/</guid>
       <description></description>

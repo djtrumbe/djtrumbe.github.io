@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macbook Pro on David Trumbell</title>
+    <link>https://djtrumbe.github.io/tags/macbook-pro/</link>
+    <description>Recent content in Macbook Pro on David Trumbell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Jul 2009 19:25:31 +0000</lastBuildDate>
+    
+	<atom:link href="https://djtrumbe.github.io/tags/macbook-pro/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apple Hardware Problems</title>
+      <link>https://djtrumbe.github.io/2009/07/08/apple-problems/</link>
+      <pubDate>Wed, 08 Jul 2009 19:25:31 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/2009/07/08/apple-problems/</guid>
+      <description>Apple products have not been kind to me over the past couple of months.
+For starters, about 2 months ago, the plastic on my iPhone&amp;rsquo;s back cracked right at the mute switch. This is a common problem that has been documented all over the internet (link1, link2). Here&amp;rsquo;s a picture of mine: Soon after this happened, I purchased a second battery from the Apple store. Good thing I did, because the very next day, my original battery wouldn&amp;rsquo;t charge.</description>
+    </item>
+    
+  </channel>
+</rss>

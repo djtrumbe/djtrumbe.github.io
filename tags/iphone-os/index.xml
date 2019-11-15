@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>iPhone OS on David Trumbell</title>
+    <link>https://djtrumbe.github.io/tags/iphone-os/</link>
+    <description>Recent content in iPhone OS on David Trumbell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jul 2009 12:06:35 +0000</lastBuildDate>
+    
+	<atom:link href="https://djtrumbe.github.io/tags/iphone-os/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>iPhone OS 3.0 battery life is terrible.</title>
+      <link>https://djtrumbe.github.io/2009/07/15/iphone-os-30-battery-life-is-terrible/</link>
+      <pubDate>Wed, 15 Jul 2009 12:06:35 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/2009/07/15/iphone-os-30-battery-life-is-terrible/</guid>
+      <description>After upgrading my iPhone 3G to OS 3.0, I was really exited to start playing with all of the new features. Some of my favorites include spotlight, cut/copy/paste and push notifications.
+Unfortunately, immediately after installing the update, my battery life was terrible at best. I use my iPhone for work and receive over a hundred emails per day through our exchange server. Before the 3.0 upgrade, I could easily get through a day on 1 charge.</description>
+    </item>
+    
+  </channel>
+</rss>
