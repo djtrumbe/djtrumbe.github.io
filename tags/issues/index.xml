@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>issues on David Trumbell</title>
@@ -17,8 +17,8 @@
       <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
       
       <guid>https://djtrumbe.github.io/2010/03/04/drobo-thin-provisioning/</guid>
-      <description>If you know me, you know that I&amp;#8217;m a huge proponent of Drobo. As of late, the frustration level with Drobo is increasing and it may have edged away at this enthusiasm.
-My most recent frustration came when I upgraded a drive in my Drobo to increase the usable space to more then 2TB. After the Drobo finished updating all of its partitions, I was left with a partition that was labeled &amp;#8216;unallocated&amp;#8217; in the Drobo dashboard.</description>
+      <description>If you know me, you know that I’m a huge proponent of Drobo. As of late, the frustration level with Drobo is increasing and it may have edged away at this enthusiasm.
+My most recent frustration came when I upgraded a drive in my Drobo to increase the usable space to more then 2TB. After the Drobo finished updating all of its partitions, I was left with a partition that was labeled ‘unallocated’ in the Drobo dashboard.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@ My most recent frustration came when I upgraded a drive in my Drobo to increase 
       <pubDate>Tue, 15 Sep 2009 12:33:16 +0000</pubDate>
       
       <guid>https://djtrumbe.github.io/2009/09/15/o2-data-frequently-drops/</guid>
-      <description>I know that much has been made of data and connectivity problems on AT&amp;amp;T in the States, but I&amp;rsquo;ve found O2 to be just as bad, if not worse. About once per day, even though I have full bars and am connected to 3G, my iPhone is unable to receive any data. Loading webpages doesn&amp;rsquo;t work, refreshing mail doesn&amp;rsquo;t work, connecting to the App Store doesn&amp;rsquo;t work, etc. This occurs for about 5 to 10 minutes at a time and can sometimes occur multiple times per day.</description>
+      <description>I know that much has been made of data and connectivity problems on AT&amp;amp;Tin the States, but I&amp;rsquo;ve found O2 to be just as bad, if not worse. About once per day, even though I have full bars and am connected to 3G, my iPhone is unable to receive any data. Loading webpages doesn&amp;rsquo;t work, refreshing mail doesn&amp;rsquo;t work, connecting to the App Store doesn&amp;rsquo;t work, etc. This occurs for about 5 to 10 minutes at a time and can sometimes occur multiple times per day.</description>
     </item>
     
     <item>

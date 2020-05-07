@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Trumbell</title>
@@ -368,6 +368,15 @@
       <pubDate>Mon, 04 May 2009 13:37:31 +0000</pubDate>
       
       <guid>https://djtrumbe.github.io/tags/recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beer</title>
+      <link>https://djtrumbe.github.io/tags/beer/</link>
+      <pubDate>Tue, 31 Oct 2006 09:13:00 +0000</pubDate>
+      
+      <guid>https://djtrumbe.github.io/tags/beer/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tabs on David Trumbell</title>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 11 Feb 2010 17:00:31 +0000</pubDate>
       
       <guid>https://djtrumbe.github.io/2010/02/11/safari-open-all-links-in-new-tabs/</guid>
-      <description>In trying to migrate from Firefox to Safari on all of my Macs, one thing that has bothered me is the inability to do 1-window browsing (i.e. opening all links in new tabs instead of new windows). After scouring the interwebs, I am still unable to accomplish this in Safari v4.0.4 and Mac OS v10.6.2. Even though there are multiple blog posts out there explaining a simple solution, it doesn&amp;rsquo;t seem to work on any of my machines.</description>
+      <description>In trying to migrate from Firefox to Safari on all of my Macs, one thing that has bothered me is the inability to do 1-window browsing (i.e. opening all links in new tabs instead of new windows). After scouring the interwebs, I am still unable to accomplish this in Safari v4.0.4 and Mac OS v10.6.2. Even though there are multipleblogpostsout there explaining a simple solution, it doesn&amp;rsquo;t seem to work on any of my machines.</description>
     </item>
     
   </channel>

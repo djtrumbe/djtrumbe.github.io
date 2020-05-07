@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IMAP on David Trumbell</title>
@@ -18,13 +18,10 @@
       
       <guid>https://djtrumbe.github.io/2009/12/16/no-way-to-limit-imap-ssl-connections-in-apple-mail/</guid>
       <description>Such an annoying problem, especially for connecting to GMail via IMAP. I constantly get the error: Too many simultaneous connections. The worst part is this has been known ever since Leopard shipped:
-http://discussions.apple.com/message.jspa?messageID=5820548
-http://discussions.apple.com/thread.jspa?threadID=1207290&amp;amp;tstart=30
-Any fix, Apple?
+http://discussions.apple.com/message.jspa?messageID=5820548http://discussions.apple.com/thread.jspa?threadID=1207290&amp;amp;tstart=30Any fix, Apple?
 UPDATE
 This problem seems to date much further back then Leopard. I&amp;rsquo;ve found references to this same issue in late 2003 (v10.3!!), here:
-http://www.macosxhints.com/article.php?story=20031130150826388
-Unfortunately, I don&amp;rsquo;t have access to server configuration as my problem is with GMail.</description>
+http://www.macosxhints.com/article.php?story=20031130150826388Unfortunately, I don&amp;rsquo;t have access to server configuration as my problem is with GMail.</description>
     </item>
     
   </channel>

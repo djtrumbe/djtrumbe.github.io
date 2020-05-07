@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -305,6 +305,21 @@
   <url>
     <loc>https://djtrumbe.github.io/2008/10/27/pasties/</loc>
     <lastmod>2008-10-27T13:47:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djtrumbe.github.io/tags/beer/</loc>
+    <lastmod>2006-10-31T09:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djtrumbe.github.io/categories/beer/</loc>
+    <lastmod>2006-10-31T09:13:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://djtrumbe.github.io/2006/10/31/stir-plate/</loc>
+    <lastmod>2006-10-31T09:13:00+00:00</lastmod>
   </url>
   
   <url>
