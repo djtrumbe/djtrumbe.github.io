@@ -18,8 +18,11 @@
       
       <guid>https://djtrumbe.github.io/2009/09/06/wordpress-security-threat/</guid>
       <description>It&amp;rsquo;s been posted all over the internet as of late, but I&amp;rsquo;d like to remind everyone of the security threat to WordPress blogs:
-WordPress 2.8.4: Security ReleaseHow to Keep WordPress SecureFrom the above links, the way to keep yourself safe from this attack is by upgrading. Make sure you back your DB beforehand. The easiest way to backup your DB is via this plugin:
-wp-db-backupThe sooner you upgrade, the sooner you are safe from this exploit.</description>
+WordPress 2.8.4: Security Release
+How to Keep WordPress Secure
+From the above links, the way to keep yourself safe from this attack is by upgrading. Make sure you back your DB beforehand. The easiest way to backup your DB is via this plugin:
+wp-db-backup
+The sooner you upgrade, the sooner you are safe from this exploit.</description>
     </item>
     
   </channel>

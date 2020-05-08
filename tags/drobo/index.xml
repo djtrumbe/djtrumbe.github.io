@@ -17,8 +17,8 @@
       <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
       
       <guid>https://djtrumbe.github.io/2010/03/04/drobo-thin-provisioning/</guid>
-      <description>If you know me, you know that I’m a huge proponent of Drobo. As of late, the frustration level with Drobo is increasing and it may have edged away at this enthusiasm.
-My most recent frustration came when I upgraded a drive in my Drobo to increase the usable space to more then 2TB. After the Drobo finished updating all of its partitions, I was left with a partition that was labeled ‘unallocated’ in the Drobo dashboard.</description>
+      <description>If you know me, you know that I&amp;rsquo;m a huge proponent of Drobo. As of late, the frustration level with Drobo is increasing and it may have edged away at this enthusiasm.
+My most recent frustration came when I upgraded a drive in my Drobo to increase the usable space to more then 2TB. After the Drobo finished updating all of its partitions, I was left with a partition that was labeled &amp;lsquo;unallocated&amp;rsquo; in the Drobo dashboard.</description>
     </item>
     
   </channel>
