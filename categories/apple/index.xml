@@ -27,10 +27,9 @@
       
       <guid>https://djtrumbe.github.io/2009/12/16/no-way-to-limit-imap-ssl-connections-in-apple-mail/</guid>
       <description>Such an annoying problem, especially for connecting to GMail via IMAP. I constantly get the error: Too many simultaneous connections. The worst part is this has been known ever since Leopard shipped:
- http://discussions.apple.com/message.jspa?messageID=5820548 http://discussions.apple.com/thread.jspa?threadID=1207290&amp;amp;tstart=30  Any fix, Apple?
-UPDATE
-This problem seems to date much further back then Leopard. I&amp;rsquo;ve found references to this same issue in late 2003 (v10.3!!), here:
- http://www.macosxhints.com/article.php?story=20031130150826388  Unfortunately, I don&amp;rsquo;t have access to server configuration as my problem is with GMail.</description>
+ https://discussions.apple.com/thread/5820548 https://discussions.apple.com/thread/1207290  Any fix, Apple?
+UPDATE This problem seems to date much further back then Leopard. I&amp;rsquo;ve found references to this same issue in late 2003 (v10.3!!), here:
+ https://hints.macworld.com/article.php?story=20031130150826388  Unfortunately, I don&amp;rsquo;t have access to server configuration as my problem is with GMail.</description>
     </item>
     
     <item>
@@ -50,7 +49,7 @@ Unfortunately, immediately after installing the update, my battery life was terr
       
       <guid>https://djtrumbe.github.io/2009/07/08/apple-problems/</guid>
       <description>Apple products have not been kind to me over the past couple of months.
-For starters, about 2 months ago, the plastic on my iPhone&amp;rsquo;s back cracked right at the mute switch. This is a common problem that has been documented all over the internet (link1, link2). Here&amp;rsquo;s a picture of mine: Soon after this happened, I purchased a second battery from the Apple store. Good thing I did, because the very next day, my original battery wouldn&amp;rsquo;t charge.</description>
+For starters, about 2 months ago, the plastic on my iPhone&amp;rsquo;s back cracked right at the mute switch. This is a common problem that has been documented all over the internet ( link1, link2 ). Here&amp;rsquo;s a picture of mine: Soon after this happened, I purchased a second battery from the Apple store. Good thing I did, because the very next day, my original battery wouldn&amp;rsquo;t charge.</description>
     </item>
     
   </channel>
