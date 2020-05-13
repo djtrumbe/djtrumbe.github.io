@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tabs on David Trumbell</title>
-    <link>https://djtrumbe.github.io/tags/tabs/</link>
+    <link>https://www.davidtrumbell.com/tags/tabs/</link>
     <description>Recent content in Tabs on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 11 Feb 2010 17:00:31 +0000</lastBuildDate>
     
-	<atom:link href="https://djtrumbe.github.io/tags/tabs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.davidtrumbell.com/tags/tabs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Safari: Open all links in new tabs</title>
-      <link>https://djtrumbe.github.io/2010/02/11/safari-open-all-links-in-new-tabs/</link>
+      <link>https://www.davidtrumbell.com/2010/02/11/safari-open-all-links-in-new-tabs/</link>
       <pubDate>Thu, 11 Feb 2010 17:00:31 +0000</pubDate>
       
-      <guid>https://djtrumbe.github.io/2010/02/11/safari-open-all-links-in-new-tabs/</guid>
+      <guid>https://www.davidtrumbell.com/2010/02/11/safari-open-all-links-in-new-tabs/</guid>
       <description>In trying to migrate from Firefox to Safari on all of my Macs, one thing that has bothered me is the inability to do 1-window browsing (i.e. opening all links in new tabs instead of new windows). After scouring the interwebs, I am still unable to accomplish this in Safari v4.0.4 and Mac OS v10.6.2. Even though there are multiple blog posts out there explaining a simple solution, it doesn&amp;rsquo;t seem to work on any of my machines.</description>
     </item>
     

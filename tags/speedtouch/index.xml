@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Speedtouch on David Trumbell</title>
-    <link>https://djtrumbe.github.io/tags/speedtouch/</link>
+    <link>https://www.davidtrumbell.com/tags/speedtouch/</link>
     <description>Recent content in Speedtouch on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 20 Jan 2010 22:19:59 +0000</lastBuildDate>
     
-	<atom:link href="https://djtrumbe.github.io/tags/speedtouch/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.davidtrumbell.com/tags/speedtouch/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>XBox Live NAT problems on BE</title>
-      <link>https://djtrumbe.github.io/2010/01/20/xbox-live-nat-problems-on-be/</link>
+      <link>https://www.davidtrumbell.com/2010/01/20/xbox-live-nat-problems-on-be/</link>
       <pubDate>Wed, 20 Jan 2010 22:19:59 +0000</pubDate>
       
-      <guid>https://djtrumbe.github.io/2010/01/20/xbox-live-nat-problems-on-be/</guid>
+      <guid>https://www.davidtrumbell.com/2010/01/20/xbox-live-nat-problems-on-be/</guid>
       <description>For quite a while I&amp;rsquo;ve struggled with a &amp;lsquo;strict&amp;rsquo; NAT when connecting to XBox Live. I&amp;rsquo;ve finally fixed this problem. Apparently, BE locks down their Speedtouch routers which creates this problem. The fix is simple:
  http://www.beusergroup.co.uk/technotes/index.php/Xbox_Live  On top of this, you may need to forward some ports on your router:
  http://portforward.com/english/routers/port_forwarding/Thomson-Alcatel/SpeedTouch585/Xbox_Live_360.htm  When I get some time, I will try to confirm the need for mapping ports.</description>

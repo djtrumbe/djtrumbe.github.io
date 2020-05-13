@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mail on David Trumbell</title>
-    <link>https://djtrumbe.github.io/tags/mail/</link>
+    <link>https://www.davidtrumbell.com/tags/mail/</link>
     <description>Recent content in Mail on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 16 Dec 2009 10:55:59 +0000</lastBuildDate>
     
-	<atom:link href="https://djtrumbe.github.io/tags/mail/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.davidtrumbell.com/tags/mail/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>No way to limit IMAP SSL connections in Apple Mail</title>
-      <link>https://djtrumbe.github.io/2009/12/16/no-way-to-limit-imap-ssl-connections-in-apple-mail/</link>
+      <link>https://www.davidtrumbell.com/2009/12/16/no-way-to-limit-imap-ssl-connections-in-apple-mail/</link>
       <pubDate>Wed, 16 Dec 2009 10:55:59 +0000</pubDate>
       
-      <guid>https://djtrumbe.github.io/2009/12/16/no-way-to-limit-imap-ssl-connections-in-apple-mail/</guid>
+      <guid>https://www.davidtrumbell.com/2009/12/16/no-way-to-limit-imap-ssl-connections-in-apple-mail/</guid>
       <description>Such an annoying problem, especially for connecting to GMail via IMAP. I constantly get the error: Too many simultaneous connections. The worst part is this has been known ever since Leopard shipped:
  https://discussions.apple.com/thread/5820548 https://discussions.apple.com/thread/1207290  Any fix, Apple?
 UPDATE This problem seems to date much further back then Leopard. I&amp;rsquo;ve found references to this same issue in late 2003 (v10.3!!), here:
