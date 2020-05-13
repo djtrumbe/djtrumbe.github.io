@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on David Trumbell</title>
-    <link>https://www.davidtrumbell.com/categories/tech/</link>
+    <link>https://davidtrumbell.com/categories/tech/</link>
     <description>Recent content in Tech on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Mar 2010 10:14:37 +0000</lastBuildDate>
     
-	<atom:link href="https://www.davidtrumbell.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidtrumbell.com/categories/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Drobo: Thin Provisioning</title>
-      <link>https://www.davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</link>
+      <link>https://davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</link>
       <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</guid>
+      <guid>https://davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</guid>
       <description>If you know me, you know that I&amp;rsquo;m a huge proponent of Drobo. As of late, the frustration level with Drobo is increasing and it may have edged away at this enthusiasm.
 My most recent frustration came when I upgraded a drive in my Drobo to increase the usable space to more then 2TB. After the Drobo finished updating all of its partitions, I was left with a partition that was labeled &amp;lsquo;unallocated&amp;rsquo; in the Drobo dashboard.</description>
     </item>
     
     <item>
       <title>Safari: Open all links in new tabs</title>
-      <link>https://www.davidtrumbell.com/2010/02/11/safari-open-all-links-in-new-tabs/</link>
+      <link>https://davidtrumbell.com/2010/02/11/safari-open-all-links-in-new-tabs/</link>
       <pubDate>Thu, 11 Feb 2010 17:00:31 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2010/02/11/safari-open-all-links-in-new-tabs/</guid>
+      <guid>https://davidtrumbell.com/2010/02/11/safari-open-all-links-in-new-tabs/</guid>
       <description>In trying to migrate from Firefox to Safari on all of my Macs, one thing that has bothered me is the inability to do 1-window browsing (i.e. opening all links in new tabs instead of new windows). After scouring the interwebs, I am still unable to accomplish this in Safari v4.0.4 and Mac OS v10.6.2. Even though there are multiple blog posts out there explaining a simple solution, it doesn&amp;rsquo;t seem to work on any of my machines.</description>
     </item>
     
     <item>
       <title>XBox Live NAT problems on BE</title>
-      <link>https://www.davidtrumbell.com/2010/01/20/xbox-live-nat-problems-on-be/</link>
+      <link>https://davidtrumbell.com/2010/01/20/xbox-live-nat-problems-on-be/</link>
       <pubDate>Wed, 20 Jan 2010 22:19:59 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2010/01/20/xbox-live-nat-problems-on-be/</guid>
+      <guid>https://davidtrumbell.com/2010/01/20/xbox-live-nat-problems-on-be/</guid>
       <description>For quite a while I&amp;rsquo;ve struggled with a &amp;lsquo;strict&amp;rsquo; NAT when connecting to XBox Live. I&amp;rsquo;ve finally fixed this problem. Apparently, BE locks down their Speedtouch routers which creates this problem. The fix is simple:
  http://www.beusergroup.co.uk/technotes/index.php/Xbox_Live  On top of this, you may need to forward some ports on your router:
  http://portforward.com/english/routers/port_forwarding/Thomson-Alcatel/SpeedTouch585/Xbox_Live_360.htm  When I get some time, I will try to confirm the need for mapping ports.</description>
@@ -43,10 +43,10 @@ My most recent frustration came when I upgraded a drive in my Drobo to increase 
     
     <item>
       <title>O2 Data Frequently Drops</title>
-      <link>https://www.davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</link>
+      <link>https://davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</link>
       <pubDate>Tue, 15 Sep 2009 12:33:16 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</guid>
+      <guid>https://davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</guid>
       <description>I know that much has been made of data and connectivity problems on AT&amp;amp;T in the States, but I&amp;rsquo;ve found O2 to be just as bad, if not worse. About once per day, even though I have full bars and am connected to 3G, my iPhone is unable to receive any data. Loading webpages doesn&amp;rsquo;t work, refreshing mail doesn&amp;rsquo;t work, connecting to the App Store doesn&amp;rsquo;t work, etc. This occurs for about 5 to 10 minutes at a time and can sometimes occur multiple times per day.</description>
     </item>
     

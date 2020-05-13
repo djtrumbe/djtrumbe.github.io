@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>3g on David Trumbell</title>
-    <link>https://www.davidtrumbell.com/tags/3g/</link>
+    <link>https://davidtrumbell.com/tags/3g/</link>
     <description>Recent content in 3g on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Sep 2009 12:33:16 +0000</lastBuildDate>
     
-	<atom:link href="https://www.davidtrumbell.com/tags/3g/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidtrumbell.com/tags/3g/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>O2 Data Frequently Drops</title>
-      <link>https://www.davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</link>
+      <link>https://davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</link>
       <pubDate>Tue, 15 Sep 2009 12:33:16 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</guid>
+      <guid>https://davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</guid>
       <description>I know that much has been made of data and connectivity problems on AT&amp;amp;T in the States, but I&amp;rsquo;ve found O2 to be just as bad, if not worse. About once per day, even though I have full bars and am connected to 3G, my iPhone is unable to receive any data. Loading webpages doesn&amp;rsquo;t work, refreshing mail doesn&amp;rsquo;t work, connecting to the App Store doesn&amp;rsquo;t work, etc. This occurs for about 5 to 10 minutes at a time and can sometimes occur multiple times per day.</description>
     </item>
     

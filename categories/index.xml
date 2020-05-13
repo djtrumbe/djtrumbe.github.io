@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on David Trumbell</title>
-    <link>https://www.davidtrumbell.com/categories/</link>
+    <link>https://davidtrumbell.com/categories/</link>
     <description>Recent content in Categories on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Mar 2010 10:14:37 +0000</lastBuildDate>
     
-	<atom:link href="https://www.davidtrumbell.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidtrumbell.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>News</title>
-      <link>https://www.davidtrumbell.com/categories/news/</link>
+      <link>https://davidtrumbell.com/categories/news/</link>
       <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/categories/news/</guid>
+      <guid>https://davidtrumbell.com/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tech</title>
-      <link>https://www.davidtrumbell.com/categories/tech/</link>
+      <link>https://davidtrumbell.com/categories/tech/</link>
       <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/categories/tech/</guid>
+      <guid>https://davidtrumbell.com/categories/tech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apple</title>
-      <link>https://www.davidtrumbell.com/categories/apple/</link>
+      <link>https://davidtrumbell.com/categories/apple/</link>
       <pubDate>Thu, 11 Feb 2010 17:00:31 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/categories/apple/</guid>
+      <guid>https://davidtrumbell.com/categories/apple/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recipes</title>
-      <link>https://www.davidtrumbell.com/categories/recipes/</link>
+      <link>https://davidtrumbell.com/categories/recipes/</link>
       <pubDate>Mon, 04 May 2009 13:37:31 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/categories/recipes/</guid>
+      <guid>https://davidtrumbell.com/categories/recipes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Beer</title>
-      <link>https://www.davidtrumbell.com/categories/beer/</link>
+      <link>https://davidtrumbell.com/categories/beer/</link>
       <pubDate>Tue, 31 Oct 2006 09:13:00 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/categories/beer/</guid>
+      <guid>https://davidtrumbell.com/categories/beer/</guid>
       <description></description>
     </item>
     

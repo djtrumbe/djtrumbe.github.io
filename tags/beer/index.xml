@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beer on David Trumbell</title>
-    <link>https://www.davidtrumbell.com/tags/beer/</link>
+    <link>https://davidtrumbell.com/tags/beer/</link>
     <description>Recent content in Beer on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2006 09:13:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.davidtrumbell.com/tags/beer/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidtrumbell.com/tags/beer/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Stir Plate</title>
-      <link>https://www.davidtrumbell.com/2006/10/31/stir-plate/</link>
+      <link>https://davidtrumbell.com/2006/10/31/stir-plate/</link>
       <pubDate>Tue, 31 Oct 2006 09:13:00 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2006/10/31/stir-plate/</guid>
+      <guid>https://davidtrumbell.com/2006/10/31/stir-plate/</guid>
       <description>Feeling motivated after reading about DIY stir plates on a few brew forums, I decided to give it a go. This is a list of parts that I used:
  Rheostat - 3 watt, 25-Ohm  RadioShack part #271-265, $3.99   Flip Switch - most will work  RadioShack part #275-711, $2.99   Control Knob - most will work  RadioShack part #274-407, $1.99   Project Enclosure - 8x6x3&amp;rdquo;  RadioShack part #270-1809, $6.</description>
     </item>

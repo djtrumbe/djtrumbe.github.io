@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>RSS on David Trumbell</title>
-    <link>https://www.davidtrumbell.com/tags/rss/</link>
+    <link>https://davidtrumbell.com/tags/rss/</link>
     <description>Recent content in RSS on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Sep 2009 11:11:45 +0000</lastBuildDate>
     
-	<atom:link href="https://www.davidtrumbell.com/tags/rss/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidtrumbell.com/tags/rss/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Browsing the web is for saps.</title>
-      <link>https://www.davidtrumbell.com/2009/09/07/browsing-the-web-is-for-saps/</link>
+      <link>https://davidtrumbell.com/2009/09/07/browsing-the-web-is-for-saps/</link>
       <pubDate>Mon, 07 Sep 2009 11:11:45 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2009/09/07/browsing-the-web-is-for-saps/</guid>
+      <guid>https://davidtrumbell.com/2009/09/07/browsing-the-web-is-for-saps/</guid>
       <description>Do you have a specific set of webpages that you browse to every day? I do. I used to have all of these sites bookmarked and placed into specific news folders in Firefox or Safari. Right-clicking on a folder would present the option to &amp;lsquo;Open All in Tabs&amp;rsquo; and all of my favorites would be right there for me to filter through. This was easy to setup and I had all of my regular pages a couple of clicks away.</description>
     </item>
     

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>issues on David Trumbell</title>
-    <link>https://www.davidtrumbell.com/tags/issues/</link>
+    <link>https://davidtrumbell.com/tags/issues/</link>
     <description>Recent content in issues on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Mar 2010 10:14:37 +0000</lastBuildDate>
     
-	<atom:link href="https://www.davidtrumbell.com/tags/issues/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidtrumbell.com/tags/issues/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Drobo: Thin Provisioning</title>
-      <link>https://www.davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</link>
+      <link>https://davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</link>
       <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</guid>
+      <guid>https://davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</guid>
       <description>If you know me, you know that I&amp;rsquo;m a huge proponent of Drobo. As of late, the frustration level with Drobo is increasing and it may have edged away at this enthusiasm.
 My most recent frustration came when I upgraded a drive in my Drobo to increase the usable space to more then 2TB. After the Drobo finished updating all of its partitions, I was left with a partition that was labeled &amp;lsquo;unallocated&amp;rsquo; in the Drobo dashboard.</description>
     </item>
     
     <item>
       <title>O2 Data Frequently Drops</title>
-      <link>https://www.davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</link>
+      <link>https://davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</link>
       <pubDate>Tue, 15 Sep 2009 12:33:16 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</guid>
+      <guid>https://davidtrumbell.com/2009/09/15/o2-data-frequently-drops/</guid>
       <description>I know that much has been made of data and connectivity problems on AT&amp;amp;T in the States, but I&amp;rsquo;ve found O2 to be just as bad, if not worse. About once per day, even though I have full bars and am connected to 3G, my iPhone is unable to receive any data. Loading webpages doesn&amp;rsquo;t work, refreshing mail doesn&amp;rsquo;t work, connecting to the App Store doesn&amp;rsquo;t work, etc. This occurs for about 5 to 10 minutes at a time and can sometimes occur multiple times per day.</description>
     </item>
     
     <item>
       <title>Apple Hardware Problems</title>
-      <link>https://www.davidtrumbell.com/2009/07/08/apple-problems/</link>
+      <link>https://davidtrumbell.com/2009/07/08/apple-problems/</link>
       <pubDate>Wed, 08 Jul 2009 19:25:31 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2009/07/08/apple-problems/</guid>
+      <guid>https://davidtrumbell.com/2009/07/08/apple-problems/</guid>
       <description>Apple products have not been kind to me over the past couple of months.
 For starters, about 2 months ago, the plastic on my iPhone&amp;rsquo;s back cracked right at the mute switch. This is a common problem that has been documented all over the internet ( link1, link2 ). Here&amp;rsquo;s a picture of mine: Soon after this happened, I purchased a second battery from the Apple store. Good thing I did, because the very next day, my original battery wouldn&amp;rsquo;t charge.</description>
     </item>

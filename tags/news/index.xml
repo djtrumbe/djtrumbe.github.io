@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on David Trumbell</title>
-    <link>https://www.davidtrumbell.com/tags/news/</link>
+    <link>https://davidtrumbell.com/tags/news/</link>
     <description>Recent content in News on David Trumbell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 04 Mar 2010 10:14:37 +0000</lastBuildDate>
     
-	<atom:link href="https://www.davidtrumbell.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davidtrumbell.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Drobo: Thin Provisioning</title>
-      <link>https://www.davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</link>
+      <link>https://davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</link>
       <pubDate>Thu, 04 Mar 2010 10:14:37 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</guid>
+      <guid>https://davidtrumbell.com/2010/03/04/drobo-thin-provisioning/</guid>
       <description>If you know me, you know that I&amp;rsquo;m a huge proponent of Drobo. As of late, the frustration level with Drobo is increasing and it may have edged away at this enthusiasm.
 My most recent frustration came when I upgraded a drive in my Drobo to increase the usable space to more then 2TB. After the Drobo finished updating all of its partitions, I was left with a partition that was labeled &amp;lsquo;unallocated&amp;rsquo; in the Drobo dashboard.</description>
     </item>
     
     <item>
       <title>Browsing the web is for saps.</title>
-      <link>https://www.davidtrumbell.com/2009/09/07/browsing-the-web-is-for-saps/</link>
+      <link>https://davidtrumbell.com/2009/09/07/browsing-the-web-is-for-saps/</link>
       <pubDate>Mon, 07 Sep 2009 11:11:45 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2009/09/07/browsing-the-web-is-for-saps/</guid>
+      <guid>https://davidtrumbell.com/2009/09/07/browsing-the-web-is-for-saps/</guid>
       <description>Do you have a specific set of webpages that you browse to every day? I do. I used to have all of these sites bookmarked and placed into specific news folders in Firefox or Safari. Right-clicking on a folder would present the option to &amp;lsquo;Open All in Tabs&amp;rsquo; and all of my favorites would be right there for me to filter through. This was easy to setup and I had all of my regular pages a couple of clicks away.</description>
     </item>
     
     <item>
       <title>WordPress Security Threat</title>
-      <link>https://www.davidtrumbell.com/2009/09/06/wordpress-security-threat/</link>
+      <link>https://davidtrumbell.com/2009/09/06/wordpress-security-threat/</link>
       <pubDate>Sun, 06 Sep 2009 14:38:52 +0000</pubDate>
       
-      <guid>https://www.davidtrumbell.com/2009/09/06/wordpress-security-threat/</guid>
+      <guid>https://davidtrumbell.com/2009/09/06/wordpress-security-threat/</guid>
       <description>It&amp;rsquo;s been posted all over the internet as of late, but I&amp;rsquo;d like to remind everyone of the security threat to WordPress blogs:
 WordPress 2.8.4: Security Release
 How to Keep WordPress Secure
